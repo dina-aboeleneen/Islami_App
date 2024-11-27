@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 
-class HomeScreen extends StatelessWidget{
+class HadethTab extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Container(
+      color: Colors.grey,
+    );
   }
 }
